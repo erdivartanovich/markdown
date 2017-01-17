@@ -4,8 +4,8 @@ Tim paling enak ada kopi nih, ya ngga
 
 
 #List member
-Erdiansyah <erdivartanovich@gmail.com>: (erdivartanovich) [https://github.com/erdivartanovich]
-Harry Tri Wibowo <mail@htwibowo.co>: (htwibowo) [https://github.com/htwibowo]
-Kristoforus <kristoforusrp@gmail.com>: (kristoforusrp) [https://github.com/kristoforusrp]
-Bramanditya <pholenkadi17@gmail.com>: (pholenk) [https://github.com/Pholenk]
+- Erdiansyah <erdivartanovich@gmail.com>: [https://github.com/erdivartanovich] (erdivartanovich)
+- Harry Tri Wibowo <mail@htwibowo.co>: [https://github.com/htwibowo] (htwibowo)
+- Kristoforus <kristoforusrp@gmail.com>: [https://github.com/kristoforusrp] (kristoforusrp)
+- Bramanditya <pholenkadi17@gmail.com>: [https://github.com/Pholenk] (pholenk)
 
